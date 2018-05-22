@@ -1,0 +1,11 @@
+p{
+    display: inline;
+}
+button{
+    margin-left: 50px;
+   
+}
+div{
+    float: left;
+    margin: 10px
+}

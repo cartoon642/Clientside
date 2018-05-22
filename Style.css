@@ -1,0 +1,64 @@
+img{
+    width: 500px;
+    
+    padding-right: 50px;
+}
+.series{
+    float: left;
+}
+p{
+color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+heading{
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.title{
+    clear: both;
+}
+.default{
+    float:left;
+    padding-right: 600px;
+
+}
+
+.square{
+    list-style-type: square;
+    
+}
+.squarediv{
+    display:inline-table;
+   
+}
+
+.dl{
+    clear:both;
+    float:left;
+    padding-right:700px;
+
+}
+.descriptive{
+    float: left;
+    
+}
+
+.e3{
+    clear:both;
+    
+}
+.menu li{
+    display: inline;
+    padding-right: 50px;
+    padding-left: 80px;
+    color: white;
+    font-size:80px;
+}
+.menu{
+    background-color: black;
+    padding-bottom: px
+}
+.menu li:hover{
+    background-color: aqua
+}

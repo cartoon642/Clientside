@@ -1,0 +1,19 @@
+#first{
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+    justify-content: center;
+}
+div{
+    float: left;
+    padding: 50px
+}
+label{
+    padding: 10px;
+    margin-bottom: 30px;
+    padding-bottom: 4-px;
+}
+button{
+    position: relative;
+    top:100px
+}
